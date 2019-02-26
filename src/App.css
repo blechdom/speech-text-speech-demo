@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+
+}
+
+.logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.speech-to-text {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
+}
